@@ -3,7 +3,7 @@ package org.example.HomeWork;
 import java.util.Scanner;
 
 /**
- * Дана последовательность N целых чисел. Найти сумму простых чисел.
+ * Дана последовательность N целых чисел. Найти сумму простых чисел. 
  */
 public class Ex2_1 {
     public static void main(String[] args) {
