@@ -1,0 +1,10 @@
+июл. 17, 2023 9:11:25 PM UIView consoleUICalc
+INFO: the calculator starts
+июл. 17, 2023 9:11:26 PM UIView consoleUICalc
+INFO: a common regime is initialised
+июл. 17, 2023 9:11:35 PM Presenter buttonClick
+INFO: 9,000000 / 3,000000 = 3,000000
+июл. 17, 2023 9:11:53 PM UIView consoleUICalc
+INFO: a complex regime is initialised
+июл. 17, 2023 9:12:22 PM PresenterComplex buttonClickComplex
+INFO: 8.9+4.5i / 5.2+1.2i = 70.24460674157304+0.0i

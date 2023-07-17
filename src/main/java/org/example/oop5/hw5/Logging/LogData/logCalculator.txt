@@ -1,6 +1,4 @@
-июл. 15, 2023 5:32:54 PM Program Main
-INFO: the program is started
-июл. 15, 2023 5:33:04 PM Presenter buttonClick
-INFO: 5,000000 + 78,000000 = 83,000000
-июл. 15, 2023 5:33:04 PM Program Main
-INFO: the program finished
+июл. 17, 2023 8:59:29 PM UIView consoleUICalc
+INFO: the calculator starts
+июл. 17, 2023 8:59:54 PM UIView consoleUICalc
+INFO: the calculator finishes
