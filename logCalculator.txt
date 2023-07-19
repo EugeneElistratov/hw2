@@ -1,0 +1,6 @@
+июл. 15, 2023 5:18:25 PM Program Main
+INFO: the program is started
+июл. 15, 2023 5:18:34 PM Presenter buttonClick
+INFO: 4,000000 - 2,000000 = 2,000000
+июл. 15, 2023 5:18:34 PM Program Main
+INFO: the program finished
